@@ -1,7 +1,7 @@
 # 右クリックでフォルダーをSalesforceの静的リソースへアップロードできるVisual Studio Code拡張機能
 
 Visual Studio Codeで任意のフォルダーを開きます。  
-ルートフォルダー直下に以下の内容でsfSetting.jsonを作成します。
+フォルダー直下に以下の内容でsfSetting.jsonを作成します。
 {  
     "userName": "ユーザー名",  
     "password": "パスワード",  
